@@ -1,0 +1,31 @@
+
+body{
+color: white;
+background: black;
+margin: 20px;
+}
+
+header{
+font-size: 60px;  
+color: magenta;
+border-bottom: solid 2px magenta;
+margin: 20px;
+padding:20px;
+font-family: "Kalnia Glaze", serif;
+}
+
+.entrada{
+background: black;
+font-size:30px;
+margin:20px;  
+padding:20px;
+display: flex;
+font-family: "Josefin Slab", serif;
+}
+
+.inicio{
+  margin-right: 50px
+}
+
+
+
